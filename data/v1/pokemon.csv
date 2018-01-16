@@ -120,7 +120,7 @@ id,identifier,species_id,height,weight,base_experience,order,is_default
 119,seaking,119,13,390,158,143,1
 120,staryu,120,8,345,68,144,1
 121,starmie,121,11,800,182,145,1
-122,mr. mime,122,13,545,161,147,1
+122,mr mime,122,13,545,161,147,1
 123,scyther,123,15,560,100,148,1
 124,jynx,124,14,406,159,152,1
 125,electabuzz,125,11,300,172,154,1
@@ -437,7 +437,7 @@ id,identifier,species_id,height,weight,base_experience,order,is_default
 436,bronzor,436,5,605,60,493,1
 437,bronzong,437,13,1870,175,494,1
 438,bonsly,438,5,150,58,228,1
-439,mime-jr,439,6,130,62,146,1
+439,mime jr,439,6,130,62,146,1
 440,happiny,440,6,244,110,132,1
 441,chatot,441,5,19,144,495,1
 442,spiritomb,442,10,1080,170,496,1
