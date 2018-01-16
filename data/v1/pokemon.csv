@@ -81,7 +81,7 @@ id,identifier,species_id,height,weight,base_experience,order,is_default
 80,slowbro,80,16,785,172,91,1
 81,magnemite,81,3,60,65,93,1
 82,magneton,82,10,600,163,94,1
-83,farfetch'd,83,8,150,123,96,1
+83,farfetchd,83,8,150,123,96,1
 84,doduo,84,14,392,62,97,1
 85,dodrio,85,18,852,161,98,1
 86,seel,86,11,900,65,99,1
